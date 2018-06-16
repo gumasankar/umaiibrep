@@ -9,10 +9,8 @@ CREATE COMPUTE MODULE FileProcessing_Compute
 		
 		SET OutputRoot.JSON.Data.response.fname = InputRoot.XMLNSC.Request.FName;
 		SET OutputRoot.JSON.Data.response.lname = InputRoot.XMLNSC.Request.LName;
-		SET OutputRoot.JSON.Data.response.email = InputRoot.XMLNSC.Request.Email;
-		SET OutputRoot.JSON.Data.response.phone = InputRoot.XMLNSC.Request.phone;
+		--SET OutputRoot.JSON.Data.response.lname = UUIDASCHAR('A');
 		
-	
 		
 		RETURN TRUE;
 	END;
