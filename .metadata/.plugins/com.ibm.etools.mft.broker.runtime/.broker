@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<IntegrationNodeConnectionParameters Version="10.0.0" host="www.google.com" integrationNodeName="BRK" listenerPort="8090" userName="uma" xmlns="http://www.ibm.com/xmlns/prod/websphere/iib/8/IntegrationNodeConnectionParameters"/>
