@@ -3,5 +3,8 @@
 <workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1529169954021_3" label="[MQtoMQ]" name="[MQtoMQ]">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MQtoMQ" type="4"/>
 </workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1529180535184_4" label="[CIDemo]" name="[CIDemo]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CIDemo" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1529169521386_0" label="Window Working Set" name="Aggregate for window 1529169521385"/>
 </workingSetManager>

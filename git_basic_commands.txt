@@ -1,0 +1,29 @@
+
+    6  clear
+    7  cd git
+    8  git config --global user.name "gumasankar"
+   10  git config --global user.email umasankarg_ms@yahoo.com
+   11  git clone https://github.com/gumasankar/umaiibrep.git
+   16  cd umaiibrep/
+   17  git status
+   18  git add firstdoc.txt
+   19  git status
+   20  git commit -m "this is my first doc uploaded" firstdoc.txt
+   22  git push -u origin master
+   23  git status
+   24  git commit -m "this is my first doc updated" firstdoc.txt
+   30  git add first folder
+   31  ls
+   32  cd first folder
+   33  cd 'first folder'
+   34  ls
+   35  git add 'second doc.txt'
+   36  git commit -m 'second doc.txt'
+   37  git push -u origin master
+   38  git status
+   81  git gui
+   94  gitk --all
+   95  git status
+   96  git gui
+   97  clear
+   98  history >commands.txt
